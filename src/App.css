@@ -29,13 +29,13 @@ form button {
   background: white;
 }
 form button {
-  color: #ff6f47;
+  color: #c2cf01;
   background: #f7fffe;
   cursor: pointer;
   transition: all 0.3s ease;
 }
 form button:hover {
-  background: #ff6f47;
+  background: #c2cf01;;
   color: white;
   
 }
@@ -69,7 +69,7 @@ form button:hover {
 
 .trash-btn,
 .complete-btn {
-  background: #ff6f47;
+  background: #c2cf01;;
   color: white;
   border: none;
   padding: 1rem;
@@ -117,7 +117,7 @@ select {
   overflow: hidden;
 }
 select {
-  color: #ff6f47;
+  color: #c2cf01;;
   font-family: "Poppins", sans-serif;
   cursor: pointer;
   width: 12rem;
@@ -129,7 +129,7 @@ select {
   top: 0;
   right: 0;
   padding: 1rem;
-  background: #ff6f47;
+  background: #c2cf01;;
   cursor: pointer;
   pointer-events: none;
 }
